@@ -1,6 +1,6 @@
 
 
-**Accelerating influenza Phase 3 trials using historical clinical study data.**
+## Accelerating influenza Phase 3 trials using historical clinical study data.
 
 Research prototype for estimating individual Time to Alleviation
 (TTA) and evaluating Phase 3 trial risk using symptom trajectories and baseline
