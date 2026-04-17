@@ -1,7 +1,7 @@
 # Data Directory
 
 This public repository does not distribute the processed patient-level clinical
-trial dataset used in the AccelP3 analyses.
+trial dataset used in the analyses.
 
 The original source materials were derived from publicly available published
 study documents and associated public dataset records.
