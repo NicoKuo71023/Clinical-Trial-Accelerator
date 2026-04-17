@@ -1,8 +1,8 @@
-# AccelP3
+
 
 **Accelerating influenza Phase 3 trials using historical clinical study data.**
 
-AccelP3 is a research prototype for estimating individual Time to Alleviation
+Research prototype for estimating individual Time to Alleviation
 (TTA) and evaluating Phase 3 trial risk using symptom trajectories and baseline
 clinical features.
 
@@ -29,28 +29,6 @@ the original source ZIP bundle.
 
 ---
 
-## Repository Structure
-
-```text
-AccelP3/
-|-- README.md
-|-- LICENSE
-|-- .gitignore
-|-- data/
-|   `-- README.md
-|-- notebooks/
-|   `-- 01_feature_engineering_and_modelling.ipynb
-|-- figures/
-|   |-- loto_results.png
-|   |-- leakage_audit.png
-|   |-- km_all_trials.png
-|   |-- dataset_characterization.png
-|   `-- feature_selection.png
-`-- web/
-    |-- index.html
-    |-- style.css
-    `-- script.js
-```
 
 ---
 
